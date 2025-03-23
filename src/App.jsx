@@ -1,8 +1,8 @@
 import "./App.css";
-import IntersectionObserver from "./MachineCodingQue/InfiteScroll/IntersectionObserver";
+import NestedCircles from "./MachineCodingQue/NestedCircles";
 
 function App() {
-  return <IntersectionObserver />;
+  return <NestedCircles />;
 }
 
 export default App;

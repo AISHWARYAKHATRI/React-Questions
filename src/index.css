@@ -2,3 +2,8 @@
   max-width: 800px;
   height: 100vh;
 }
+
+.circle {
+  border: 1px solid #4f4b4b;
+  border-radius: 100%;
+}
