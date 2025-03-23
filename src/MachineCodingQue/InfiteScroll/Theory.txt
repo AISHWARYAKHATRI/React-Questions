@@ -1,0 +1,10 @@
+1 - Key Concept: scrollTop, clientHeight, scrollHeight 
+2 - Implement infinte scroll(IS) using vanilla js with DOM apis
+3 - Implement IS using intersection observer
+4 - Is intersection observer feature of browser or js
+5 - Disadvantages of IS and its solution
+  -- DOM overload due to large number of DOM elements
+
+What can be done to minimize this:
+Pagination
+Infinite scroll + virtualization 
